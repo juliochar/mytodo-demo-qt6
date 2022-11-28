@@ -5,7 +5,8 @@ programa criado para testar funcionalidades do qt6 com sqlite - um simples todoL
 
 -imagens:
 
-![Aplicação criada](https://i.postimg.cc/qtMzWVJk/tela-app-todo-List.png)
+![Aplicação criada](https://i.postimg.cc/nLqBjpNQ/tela-app-todo-List.png)
 
-![Qtcreator e codigo](https://i.postimg.cc/wtf7pfMD/tela-qt-creator.png)
+
+![Qtcreator e codigo](https://i.postimg.cc/j5KNyBr3/tela-qt-creator.png)
 
